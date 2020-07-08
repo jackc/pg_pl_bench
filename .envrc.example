@@ -1,0 +1,2 @@
+export PGHOST=/private/tmp
+export PGDATABASE=pg_pl_bench
